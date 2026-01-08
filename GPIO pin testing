@@ -1,0 +1,15 @@
+void setup() {
+  pinMode(12, OUTPUT); // The 12 is a placeholder for whatever pin you want to test
+  Serial.begin(115200);
+  Serial.println("Testing GPIO 12");
+}
+
+void loop() {
+  Serial.println("HIGH");
+  digitalWrite(12, HIGH); // The 12 is a placeholder for whatever pin you want to test
+  delay(1000);
+  
+  Serial.println("LOW");
+  digitalWrite(12, LOW); // The 12 is a placeholder for whatever pin you want to test
+  delay(1000);
+}
