@@ -65,7 +65,7 @@ PicoScope is an alternative to the oscilloscope. Mr. Marc-Aurele introduced it a
 ### CAD
 Another skill exemplified throughout this project was the ability to modify pre-existing designs in Fusion360. It was important to adjust the claw mechanism to accommodate the mini push button and to adjust the mounting mechanism to better accommodate Claw Prong 2.
 
-### Coding C++
+### Coding C
 A major skill exemplified throughout this project was the ability to code the whole mechanism. 
 
 ## Reflection
