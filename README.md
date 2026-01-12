@@ -60,12 +60,26 @@ PicoScope is an alternative to the oscilloscope. Mr. Marc-Aurele introduced it a
 ### CAD
 Another skill exemplified throughout this project was the ability to modify pre-existing designs in Fusion360. It was important to adjust the claw mechanism to accommodate the mini push button and to adjust the mounting mechanism to better accommodate Claw Prong 2.
 
+### Coding C++
+A major skill exemplified throughout this project was the ability to code the whole mechanism. 
+
 ## Reflection
 ### Time Management & Planning
 One lesson learned was the importance of time management and planning. If a timeline was properly mapped beforehand, with specific objectives required by certain dates, it would have driven the project further. Not going through the motion of properly planning and the engineering design process cost us precious time and made us less efficient. Going forward on future projects, it would be important to make these changes: starting with a problem statement, brainstorming possible solutions, going through a decision matrix, coming up with an organized timeline, and detailing every step of the way both in GitHub and in an Engineering Notebook. 
 
 ### Next Steps
 Rayyan and I plan to incorporate the claw with the Computer Vision that he has developed. Here is his [GitHub](https://github.com/Maro1810/Payload-Dropping-Drone-DE-Final). We aim to continue this project, and have done research into what goes into making a drone. 
+
+## Sources & Credits
+Credit to Mr. Marc-Aurele for his relentless effort and contributions to making this project work! Without his support, this project would not have been possible.
+Credit to Rayyan Hussain, my partner, for his contributions and mindset that kept us going. Your coding support was truly appreciated
+Credit to Liam Sagi for the initial claw mechanism CAD, and the 4-pin bottons
+Credit to William for providing the Servo Motor
+
+[ESP32Servo](https://github.com/madhephaestus/ESP32Servo) <br>
+[Ultrasonic Sensor Guide](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/) <br>
+
+
 
 
 
