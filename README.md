@@ -30,7 +30,7 @@ A microcontroller was necessary to process sensors, handle inputs, and exert out
 ![ESP32 S3 Dev Board Layout](Media/ESP32_S3_Dev_Board.png)
 
 ### Claw
-Using a CAD model and a 3D printer, it was feasible to 3D print the claw pieces. M4 screws were selected to assemble the claw because they were readily available. PLA was selected because of it is durable and cost-efficient. In the  drone build, it would be strategical to use a lighter weight filament depending on drone requirements. 
+Using a CAD model and a 3D printer, it was feasible to 3D print the claw pieces. M4 screws were selected to assemble the claw because they were readily available. PLA was selected because it is durable and cost-efficient. In the drone build, it would be strategical to use a lighter weight filament depending on drone requirements. 
 
 ## CAD Model
 
@@ -46,6 +46,31 @@ However, our mechanisms differed in housing a system that would be able to detec
 [Claw Prong 1](CAD/Claw_Prong_1.stl), 
 [Claw Prong 2](CAD/Claw_Prong_2.stl), 
 [Modified Mounting](CAD/Modified_Mounting_Mechanism.stl).
+
+## Technical Skills Exerted
+
+### Multimeter
+One skill well utilized throughout this project was the use of a multimeter. It was incredibly useful to check whether or not a signal was being transmitted at all
+
+### PicoScope
+PicoScope is an alternative to the oscilloscope. Mr. Marc-Aurele introduced it and used it to help me understand the effect of Pulse Width Modulation (PWM). It was incredibly useful to see how the PWM value correlates to the signal's graph.
+
+![PeaScope Graph](Media/PeaScope_Graph.jpg)
+
+### CAD
+Another skill exemplified throughout this project was the ability to modify pre-existing designs in Fusion360. It was important to adjust the claw mechanism to accomodate for the mini push button and to adjust the mounting mechanism to better accomodate for Claw Prong 2.
+
+## Reflection
+### Time Management & Planning
+One lesson learned was the importance of time management and planning. If a timeline was properly mapped beforehand, with specific objectives required by certain dates, it would have driven the project further. Not going through the motion of properly planning and engineering design process costed us precious time, and made us less efficient. 
+
+### Next Steps
+Rayyan and I plan to incorporate the claw with the Computer Vision that he has developed. Here is his [GitHub](https://github.com/Maro1810/Payload-Dropping-Drone-DE-Final). We aim to continue this project, and have done research into what goes into making a drone. 
+
+
+
+
+
 
 
 
