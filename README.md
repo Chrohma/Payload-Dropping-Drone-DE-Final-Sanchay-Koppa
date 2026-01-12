@@ -7,7 +7,7 @@
 The original intention behind this project was to design and develop a drone mechanism that was capable of autonomously going to a location, detecting an object using Computer Vision, and then using sensors (ultrasonic sensors and limit switches) to sense proximity to the object and how well gripped the object is. Because of timeline constraints and project requirements, my partner, Rayyan, and I pivoted. We focused on developing the claw mechanism and will continue the project outside of the class when time permits. This GitHub goes over our design process, objectives, and progress for the claw gripping mechanism. 
 
 ## Concept
-Utilizing the PLTW curriculum, the mechanism was analyzed through a state machine-like perspective. A flowchart was developed to describe what the claw was designed to do. This visualization was useful in keeping a scope of the project consistent, and also serves as a coding flowchart for what the code should reflect. 
+Utilizing the PLTW curriculum, the mechanism was analyzed through a state machine-like perspective. A flowchart was developed to describe what the claw was designed to do. This visualization was useful in keeping the scope of the project consistent, and also serves as a coding flowchart for what the code should reflect. 
 
 ![Flowchart](Media/Flowchart.png)
 
@@ -40,7 +40,7 @@ The claw mechanism uses double-helical gears, known for their superior load capa
 📦 **STL (3D Preview Available):**  
 [Original Full Assembly](CAD/Original_Full_Assembly.stl)
 
-However, our mechanisms differed in housing a system that would be able to detect when an object was fully gripped. I made modifications to the CAD file and created housings for mini pushbuttons to be housed. The modifications to the prongs as well as to the moutning are visible below.
+However, our mechanisms differed in housing a system that would be able to detect when an object was fully gripped. I made modifications to the CAD file and created housings for mini pushbuttons to be housed. The modifications to the prongs as well as to the mounting are visible below.
 
 🦾**STL (3D Preview Available):**
 [Claw Prong 1](CAD/Claw_Prong_1.stl), 
@@ -58,11 +58,11 @@ PicoScope is an alternative to the oscilloscope. Mr. Marc-Aurele introduced it a
 ![PeaScope Graph](Media/PeaScope_Graph.jpg)
 
 ### CAD
-Another skill exemplified throughout this project was the ability to modify pre-existing designs in Fusion360. It was important to adjust the claw mechanism to accomodate for the mini push button and to adjust the mounting mechanism to better accomodate for Claw Prong 2.
+Another skill exemplified throughout this project was the ability to modify pre-existing designs in Fusion360. It was important to adjust the claw mechanism to accommodate the mini push button and to adjust the mounting mechanism to better accommodate Claw Prong 2.
 
 ## Reflection
 ### Time Management & Planning
-One lesson learned was the importance of time management and planning. If a timeline was properly mapped beforehand, with specific objectives required by certain dates, it would have driven the project further. Not going through the motion of properly planning and engineering design process costed us precious time, and made us less efficient. 
+One lesson learned was the importance of time management and planning. If a timeline was properly mapped beforehand, with specific objectives required by certain dates, it would have driven the project further. Not going through the motion of properly planning and the engineering design process cost us precious time and made us less efficient. Going forward on future projects, it would be important to make these changes: starting with a problem statement, brainstorming possible solutions, going through a decision matrix, coming up with an organized timeline, and detailing every step of the way both in GitHub and in an Engineering Notebook. 
 
 ### Next Steps
 Rayyan and I plan to incorporate the claw with the Computer Vision that he has developed. Here is his [GitHub](https://github.com/Maro1810/Payload-Dropping-Drone-DE-Final). We aim to continue this project, and have done research into what goes into making a drone. 
