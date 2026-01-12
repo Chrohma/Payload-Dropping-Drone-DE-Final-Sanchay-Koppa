@@ -3,6 +3,11 @@
 ## Claw Mechanism – Video Demo
 [![Claw Mechanism Demo](https://img.youtube.com/vi/DDZS0SXJ_JE/0.jpg)](https://youtu.be/DDZS0SXJ_JE)
 
+## 📖 Project Documentation
+> **Note:** For the full, live-updated technical logs including high-res diagrams and detailed troubleshooting, please view the official Google Doc below.
+
+[![View Full Digital Notebook](https://img.shields.io/badge/Google_Docs-View_Live_Notebook-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1mNkPzb2Dm7rPTY6DnG9QQdO4ANFAmKZh2FcdBe88DXI/edit?usp=sharing)
+
 ## Introduction
 The original intention behind this project was to design and develop a drone mechanism that was capable of autonomously going to a location, detecting an object using Computer Vision, and then using sensors (ultrasonic sensors and limit switches) to sense proximity to the object and how well gripped the object is. Because of timeline constraints and project requirements, my partner, Rayyan, and I pivoted. We focused on developing the claw mechanism and will continue the project outside of the class when time permits. This GitHub goes over our design process, objectives, and progress for the claw gripping mechanism. 
 
